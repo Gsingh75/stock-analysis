@@ -80,8 +80,8 @@ The first and the foremost advantage as seen above is how fast the execution of 
 ### The advantages and disadvantages of the original and refactored VBA script:
 The advantage of refactored VBA script is a significant reduction in the program runtime, which can be seen as follows:
 (These are the screenshots from the previous unfactored code's execution time and can be compared to the screenshots above in the results portion of this document where those screenshots are from the refactored VBA script's execution time.)
-![](Images/Screenshot(8).png)
-![](Images/Screenshot(9).png)
+![](Images/Screenshot (8).png)
+![](Images/Screenshot (9).png)
 
 
 

@@ -68,7 +68,7 @@ The very first step was to download the rough draft of our refactored code and f
         
     Next i
 ```
-Tattu/VBA_Challenge_2017.jpg
+VBA_Challenge_2017.png
 
 
 ## Summary:

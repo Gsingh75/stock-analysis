@@ -1,4 +1,4 @@
-# ##Stocks Analysis##
+# Stocks Analysis
 
 ## Overview of Project:
 Using the Stocks dataset and the original 'AllStocksAnalysis' subroutine code, we refactored it into 'AllStocksAnalysisRefactored' and made it more efficient in terms of its runtime. This would be very useful for Steve, who is helping out his parents analyze and choose a few stocks to invest in using their historical data and if he wants to run this code on the entire stock market over the past few years, he can now do it much faster! 
@@ -67,4 +67,4 @@ The very first step was to download the rough draft of our refactored code and f
         
         
     Next i
-    ```
+

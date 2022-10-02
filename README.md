@@ -68,8 +68,12 @@ The very first step was to download the rough draft of our refactored code and f
         
     Next i
 ```
+Our run time got reduced pretty significantly after refactoring the code which can be seen as follows:
+For the year 2017:
 ![](Images/VBA_Challenge_2017.png)
 
+For the year 2018:
+![](Images/VBA_Challenge_2018.png)
 
 ## Summary:
 
